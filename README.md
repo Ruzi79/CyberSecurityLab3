@@ -15,6 +15,7 @@ Task 2:
 Using SYN scan (nmap -sS), the top 5 open ports discovered on 192.168.56.102 are:
 Port - Service:
 21/tcp	FTP,
+
 22/tcp	SSH,
 23/tcp	Telnet,
 25/tcp	SMTP,
