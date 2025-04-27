@@ -7,6 +7,7 @@ Hostname	IP Address
 metasploitable.localdomain	192.168.56.102
 Note:
 192.168.56.101 is my own Kali Linux machine
+
 Task 2:
 ![image](https://github.com/user-attachments/assets/fcf19b02-4712-4030-a256-053a99e7fe4f)
 
@@ -17,6 +18,7 @@ Port	Service
 23/tcp	Telnet
 25/tcp	SMTP
 80/tcp	HTTP
+
 Task 3:
 ![image](https://github.com/user-attachments/assets/2384e23e-95ce-4930-8b61-d3d369fa1b10)
 
@@ -24,6 +26,7 @@ Using version detection (nmap -sV), the following service versions were found:
 Service	Version
 SSH	OpenSSH 4.7p1 Debian 8ubuntu1 (protocol 2.0)
 HTTP (port 80)	Apache httpd 2.2.8 ((Ubuntu) DAV/2)
+
 Task 4:
 ![image](https://github.com/user-attachments/assets/8576937f-7a52-47a2-9054-158b7658c4a1)
 
